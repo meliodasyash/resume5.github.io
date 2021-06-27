@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+ <head>
+   <title>MYRESUME</title>
+ </head>
+ <body>
+ <table cellspacing="20">
+ <tr>
+ <td ><img src="resumepic.png" height="200" width="200"></td>
+ <td><h1>YASWANTH KUMAR></h1>
+ <p><strong>DISCIPLINE</strong> : Mechanical Engg</p></td>
+ </tr>
+ </table>
+ <hr>
+<h1>Educational profile</h1>
+<table border="1" cellspacing="0" cellpadding="10">
+<tr>
+<th>INSITUTE</th>
+<th>COURSE</th>
+<th>BOARD/UNIVERSITY</th>
+<th>YOP</th>
+<th>CGPA</th>
+<th>DIVISION</th>
+</tr>
+<tr>
+<td>GAYATRI VIDYA PARISHAD</td>
+<td>BTECH</td>
+<td>ANDHRA UNIVERSITY</td>
+<td>2020</td>
+<td>6.11</td>
+<td>FIRST</td>
+</tr>
+<tr>
+<td>GAYATRI JR COLLEGE</td>
+<td>MPC</td>
+<td>TSBIE</td>
+<td>2016</td>
+<td>96.3</td>
+<td>FIRST</td>
+</tr>
+<tr>
+<td>WGHS</td>
+<td>MATRICULATION</td>
+<td>SSC</td>
+<td>2014</td>
+<td>9.3</td>
+<td>FIRST</td>
+</tr>
+</table>
+<hr>
+<h2>LANGUAGES KNOWN></H2>
+<UL>
+<LI>SQL</LI>
+<LI>JAVA</LI>
+<LI>HTML</LI>
+<LI>CSS</LI>
+</UL>
+<HR>
+<H2>ACCOMPLISHMENTS</H2>
+<UL>
+<LI><STRONG>INTERNSHIP</STRONG>:CATIA</LI>
+<LI><STRONG>PROJECT</STRONG>:TESTING ON 317L METAL</LI>
+</UL
+
+
+  
+ </body>
+</html>
